@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <title>Diagrama de perspectiva linear com ponto de fuga</title>
+  <rect width="800" height="450" fill="#f7efd9"/>
+  <line x1="0" y1="170" x2="800" y2="170" stroke="#7a2e1d" stroke-width="2" stroke-dasharray="8 6"/>
+  <g stroke="#3b2a20" stroke-width="1.5" fill="none">
+    <line x1="400" y1="170" x2="0" y2="450"/>
+    <line x1="400" y1="170" x2="160" y2="450"/>
+    <line x1="400" y1="170" x2="320" y2="450"/>
+    <line x1="400" y1="170" x2="480" y2="450"/>
+    <line x1="400" y1="170" x2="640" y2="450"/>
+    <line x1="400" y1="170" x2="800" y2="450"/>
+  </g>
+  <g stroke="#3b2a20" stroke-width="1.2">
+    <line x1="152" y1="320" x2="648" y2="320"/>
+    <line x1="224" y1="260" x2="576" y2="260"/>
+    <line x1="283" y1="217" x2="517" y2="217"/>
+    <line x1="333" y1="190" x2="467" y2="190"/>
+  </g>
+  <circle cx="400" cy="170" r="7" fill="#7a2e1d"/>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#3b2a20">
+    <text x="414" y="158">Ponto de fuga</text>
+    <text x="12" y="160" fill="#7a2e1d">Linha do horizonte</text>
+    <text x="12" y="436">Ortogonais convergem para o ponto de fuga</text>
+  </g>
+</svg>

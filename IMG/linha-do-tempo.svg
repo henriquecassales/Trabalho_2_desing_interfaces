@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <title>Linha do tempo do Renascimento italiano</title>
+  <rect width="800" height="300" fill="#f7efd9"/>
+  <line x1="40" y1="150" x2="760" y2="150" stroke="#3b2a20" stroke-width="4"/>
+  <g fill="#7a2e1d">
+    <circle cx="120" cy="150" r="10"/>
+    <circle cx="300" cy="150" r="10"/>
+    <circle cx="500" cy="150" r="10"/>
+    <circle cx="680" cy="150" r="10"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#3b2a20" text-anchor="middle">
+    <text x="120" y="120" font-size="20" font-weight="bold">c. 1415</text>
+    <text x="120" y="190" font-size="15">Brunelleschi e a</text>
+    <text x="120" y="210" font-size="15">perspectiva linear</text>
+    <text x="300" y="120" font-size="20" font-weight="bold">c. 1450</text>
+    <text x="300" y="190" font-size="15">Prensa de</text>
+    <text x="300" y="210" font-size="15">Gutenberg</text>
+    <text x="500" y="120" font-size="20" font-weight="bold">1508-1512</text>
+    <text x="500" y="190" font-size="15">Michelangelo pinta o teto</text>
+    <text x="500" y="210" font-size="15">da Capela Sistina</text>
+    <text x="680" y="120" font-size="20" font-weight="bold">1509-1511</text>
+    <text x="680" y="190" font-size="15">Rafael pinta</text>
+    <text x="680" y="210" font-size="15">A Escola de Atenas</text>
+    <text x="210" y="60" font-size="18" fill="#7a2e1d" font-weight="bold">Quattrocento (séc. XV)</text>
+    <text x="590" y="60" font-size="18" fill="#7a2e1d" font-weight="bold">Cinquecento (séc. XVI)</text>
+  </g>
+</svg>
