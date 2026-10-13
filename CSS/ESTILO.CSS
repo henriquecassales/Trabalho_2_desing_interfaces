@@ -25,7 +25,6 @@ body {
   font-weight: 700;
   font-size: 1.15rem;
 }
-
 .marca img {
   border-radius: 50%;
   border: 2px solid #f3e3b8;
@@ -38,7 +37,12 @@ body {
   right: 1.5rem;
   top: 1.5rem;
 }
-
+section figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 .menu_botao {
   display: flex;
   flex-direction: column;
@@ -50,7 +54,6 @@ body {
   cursor: pointer;
   border-radius: 0.4rem;
 }
-
 .menu_botao span {
   display: block;
   height: 3px;
